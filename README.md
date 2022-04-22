@@ -11,8 +11,7 @@ source requests/bin/activate
 [image-1]: images/lambda-layers-step-1.png "step 1"
 
 ```
-python3 -m venv requests
-source requests/bin/activate
+pip3 install requests
 ```
 
 ![alt text][image-2]
