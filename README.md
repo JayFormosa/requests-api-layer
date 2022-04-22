@@ -6,15 +6,15 @@ python3 -m venv requests
 source requests/bin/activate
 ```
 
-![alt text][logo]
+![alt text][image-1]
 
-[logo]: images/lambda-layers-step-1.png "step 1"
+[image-1]: images/lambda-layers-step-1.png "step 1"
 
 ```
 python3 -m venv requests
 source requests/bin/activate
 ```
 
-![alt text][logo]
+![alt text][image-2]
 
-[logo]: images/lambda-layers-step-2.png "step 2"
+[image-2]: images/lambda-layers-step-2.png "step 2"
