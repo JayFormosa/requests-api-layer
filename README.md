@@ -17,3 +17,10 @@ pip3 install requests
 ![alt text][image-2]
 
 [image-2]: images/lambda-layers-step-2.png "step 2"
+
+
+
+
+![alt text][image-3]
+
+[image-3]: images/lambda-layers-step-3.png "step 3"
