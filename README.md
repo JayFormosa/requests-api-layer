@@ -24,3 +24,8 @@ pip3 install requests
 ![alt text][image-3]
 
 [image-3]: images/lambda-layers-step-3.png "step 3"
+
+
+![alt text][image-4]
+
+[image-4]: images/lambda-layers-step-4.png "step 3"
