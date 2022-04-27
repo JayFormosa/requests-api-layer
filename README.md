@@ -19,12 +19,17 @@ pip3 install requests
 [image-2]: images/lambda-layers-step-2.png "step 2"
 
 
-
+```
+pip3 freeze
+```
 
 ![alt text][image-3]
 
 [image-3]: images/lambda-layers-step-3.png "step 3"
 
+```
+mkdir python
+```
 
 ![alt text][image-4]
 
